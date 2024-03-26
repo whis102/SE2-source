@@ -65,6 +65,7 @@ body, ul, li, p, a, label, input, div {
   background-color: #69bb7e;
   color: #fff;
 }
+
 /* Nav */
 #templatemo_nav_top { min-height: 40px;}
 #templatemo_nav_top * { font-size: .9em !important;}
@@ -102,6 +103,7 @@ body, ul, li, p, a, label, input, div {
   font-size: 15px;
   margin-top: 20px;
 }
+
 /* Brand */
 .brand-img {
   filter: grayscale(100%);
@@ -119,11 +121,13 @@ body, ul, li, p, a, label, input, div {
   margin-top: -50px;
   background-color: #59ab6e;
 }
+
 #template-mo-zay-hero-carousel .carousel-control-next i,
 #template-mo-zay-hero-carousel .carousel-control-prev i {
   color: #59ab6e !important;
   font-size: 2.8em !important;
 }
+
 /* Carousel Brand */
 .tempaltemo-carousel .h1 {
   font-size: .5em !important;
